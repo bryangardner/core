@@ -165,6 +165,7 @@ homeassistant/components/huawei_router/* @abmantis
 homeassistant/components/hue/* @balloob
 homeassistant/components/iaqualink/* @flz
 homeassistant/components/icloud/* @Quentame
+homeassistant/components/iex_cloud/* @bryangardner
 homeassistant/components/ign_sismologia/* @exxamalte
 homeassistant/components/incomfort/* @zxdavb
 homeassistant/components/influxdb/* @fabaff

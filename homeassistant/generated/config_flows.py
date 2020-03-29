@@ -45,6 +45,7 @@ FLOWS = [
     "hue",
     "iaqualink",
     "icloud",
+    "iex_cloud",
     "ifttt",
     "ios",
     "ipma",

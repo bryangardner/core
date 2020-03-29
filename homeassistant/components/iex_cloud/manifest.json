@@ -1,0 +1,14 @@
+{
+  "domain": "iex_cloud",
+  "name": "IEX Quote",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/iex_cloud",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@bryangardner"
+  ]
+}

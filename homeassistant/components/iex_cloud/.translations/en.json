@@ -1,0 +1,24 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Device is already configured"
+        },
+        "error": {
+            "cannot_connect": "Failed to connect, please try again",
+            "invalid_auth": "Invalid IEX Cloud authentication token",
+            "ticker_not_found": "The ticker specified was not found",
+            "unknown": "Unexpected error"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "client_secret": "IEX Authentication Token",
+                    "iex_ticker": "IEX Ticker",
+                    "url": "IEX Base URL"
+                },
+                "title": "IEX Quote for Ticker"
+            }
+        },
+        "title": "IEX Quote"
+    }
+}

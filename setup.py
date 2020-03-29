@@ -15,7 +15,7 @@ PROJECT_URL = "https://www.home-assistant.io/"
 PROJECT_EMAIL = "hello@home-assistant.io"
 
 PROJECT_GITHUB_USERNAME = "home-assistant"
-PROJECT_GITHUB_REPOSITORY = "home-assistant"
+PROJECT_GITHUB_REPOSITORY = "core"
 
 PYPI_URL = "https://pypi.python.org/pypi/{}".format(PROJECT_PACKAGE_NAME)
 GITHUB_PATH = "{}/{}".format(PROJECT_GITHUB_USERNAME, PROJECT_GITHUB_REPOSITORY)
@@ -40,14 +40,14 @@ REQUIRES = [
     "certifi>=2019.11.28",
     "ciso8601==2.1.3",
     "importlib-metadata==1.5.0",
-    "jinja2>=2.10.3",
+    "jinja2>=2.11.1",
     "PyJWT==1.7.1",
     # PyJWT has loose dependency. We want the latest one.
     "cryptography==2.8",
     "pip>=8.0.3",
     "python-slugify==4.0.0",
     "pytz>=2019.03",
-    "pyyaml==5.3",
+    "pyyaml==5.3.1",
     "requests==2.23.0",
     "ruamel.yaml==0.15.100",
     "voluptuous==0.11.7",
